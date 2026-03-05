@@ -1,6 +1,8 @@
 # Input/Output files
-input/
-output/
+input/*
+output/*
+!input/.gitkeep
+!output/.gitkeep
 
 # Python
 __pycache__/
