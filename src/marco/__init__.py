@@ -1,0 +1,1 @@
+"""Marco — CV format converter."""
