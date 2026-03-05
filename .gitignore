@@ -30,7 +30,6 @@ Thumbs.db
 /*.json
 
 # Allow template docx files
-!templates/*.docx
 !template/*.docx
 
 # Office temp files (must come after whitelisting)
